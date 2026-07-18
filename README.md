@@ -370,12 +370,9 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 **Shruti Singh**      
 
-- 📧 Email: [shrutis02170@gmail.com](mailto:shrutis02170@gmail.com)
-- 🌐 LinkedIn: [Shruti_LinkedIn](https://www.linkedin.com/in/shruti-singh-0aaa47288/)
+- 📧 Email: [abhisheksingh170201@gmail.com](mailto:abhisheksingh170201@gmail.com)
+- 🌐 LinkedIn: [Abhishek_LinkedIn](https://www.linkedin.com/in/abhisheksingh236/)
 
-## 12. License <a name="12-license"></a>
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
