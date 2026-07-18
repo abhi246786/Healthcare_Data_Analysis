@@ -368,7 +368,7 @@ Understand how admissions fluctuate over time, identify peak periods, and drill 
 
 ## 👨‍💻 11. Author <a name="11-author"></a>
 
-**Shruti Singh**      
+**Abhishek Singh**      
 
 - 📧 Email: [abhisheksingh170201@gmail.com](mailto:abhisheksingh170201@gmail.com)
 - 🌐 LinkedIn: [Abhishek_LinkedIn](https://www.linkedin.com/in/abhisheksingh236/)
