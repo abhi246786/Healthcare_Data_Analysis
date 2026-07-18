@@ -117,7 +117,7 @@ This project demonstrates how Python-based data engineering can seamlessly integ
 
 ├── 📄 .gitignore # Git ignore rules
 
- |
+│
 
 ├── 📄 README.md # Project overview and documentation
 
